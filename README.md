@@ -1,1 +1,1 @@
-# Intro-to-Infectious-Disease-Modeling
+# Introduction to Mathematical Biology
